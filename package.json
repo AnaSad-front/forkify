@@ -1,0 +1,23 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaSad-front/forkify.git"
+  },
+  "author": "AnaSad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnaSad-front/forkify/issues"
+  },
+  "homepage": "https://github.com/AnaSad-front/forkify#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.1",
+    "parcel": "^2.16.1"
+  }
+}
